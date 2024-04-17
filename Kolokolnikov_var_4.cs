@@ -40,7 +40,7 @@ namespace ConsoleApp1
             }
             public int Recursion()
             {
-                while (word.Length != 0)
+                if (word.Length != 0)
                 {
                     Console.WriteLine(word.Substring(0, word.Length - 1));
                     Thread.Sleep(150);

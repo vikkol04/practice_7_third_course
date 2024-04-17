@@ -12,3 +12,4 @@ F:\University\Интернет технологии и базы данных\П�
 F:\University\Интернет технологии и базы данных\Практика\7\practice_7_third_course\obj\Debug\net8.0\practice_7_third_course.pdb
 F:\University\Интернет технологии и базы данных\Практика\7\practice_7_third_course\obj\Debug\net8.0\practice_7_third_course.genruntimeconfig.cache
 F:\University\Интернет технологии и базы данных\Практика\7\practice_7_third_course\obj\Debug\net8.0\ref\practice_7_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\7\practice_7_third_course\obj\Debug\net8.0\practice_7_third_course.sourcelink.json
